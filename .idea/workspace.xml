@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="28bd581b-e181-4eb7-a35b-c2216f8daf91" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adsider-conference.html" beforeDir="false" afterPath="$PROJECT_DIR$/adsider-conference.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/my-portfolio-0f8a6f.webflow.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/my-portfolio-0f8a6f.webflow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/webflow.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/webflow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finsafe.html" beforeDir="false" afterPath="$PROJECT_DIR$/finsafe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gogoltrain.html" beforeDir="false" afterPath="$PROJECT_DIR$/gogoltrain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gongadze.html" beforeDir="false" afterPath="$PROJECT_DIR$/gongadze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/my-logo-01.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/webflow.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/webflow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/verified-me.html" beforeDir="false" afterPath="$PROJECT_DIR$/verified-me.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -103,12 +93,12 @@
       <workItem from="1592843424616" duration="319000" />
       <workItem from="1594213839694" duration="1981000" />
       <workItem from="1594804027103" duration="599000" />
-      <workItem from="1595866695654" duration="569000" />
+      <workItem from="1595866695654" duration="1169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4102000" />
+    <option name="totallyTimeSpent" value="4702000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
